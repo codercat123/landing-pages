@@ -9,3 +9,12 @@ Landing pages I've created with AI
 
 ![This is an image](https://github.com/codercat123/landing-pages/blob/main/Concept%203%20chocolate%20beverage.png)
 
+
+
+
+## **Landing pages for a restaurant**
+![This is an image]()
+
+![This is an image]()
+
+![This is an image]()
