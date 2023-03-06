@@ -24,7 +24,7 @@ Landing pages I've created with AI
 ![This is an image](https://github.com/codercat123/landing-pages/blob/main/Concept%207%20a%20bar%20(2).png)
 
 
-## **Landing pages for a Cafe**
+## **Landing page for a Cafe**
 ![This is an image](https://github.com/codercat123/landing-pages/blob/main/concept%208%20cafe.png)
 
 
