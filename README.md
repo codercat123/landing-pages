@@ -28,3 +28,5 @@ Landing pages I've created with AI
 ![This is an image](https://github.com/codercat123/landing-pages/blob/main/concept%208%20cafe.png)
 
 
+## **Landing page for an e-commerce store**
+![This is an image](https://github.com/codercat123/landing-pages/blob/main/concept%209%20ecommerce%20store.png)
